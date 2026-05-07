@@ -1,6 +1,4 @@
-# FSociety ransomware
 
-![Fsociety ransomware graniet](https://s3.postimg.org/y861zq31v/Capture_d_cran_de_2016_10_30_12_18_08.png)
 
 # On movie
 
